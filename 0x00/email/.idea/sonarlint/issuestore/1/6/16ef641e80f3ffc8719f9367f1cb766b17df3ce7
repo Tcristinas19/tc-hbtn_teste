@@ -1,0 +1,20 @@
+
+0
+java:S1220""Move this file to a named package.
+U
+java:S1118":Add a private constructor to hide the implicit public one.(Û§ˆîþÿÿÿÿ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­å ¹
+>
+java:S1125"(Remove the unnecessary boolean literals.(èÓ¸û
+=
+java:S1125"'Remove the unnecessary boolean literal.(èÓ¸û
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã½Þ®üÿÿÿÿ
+C
+java:S1125"(Remove the unnecessary boolean literals.(âÁƒäÿÿÿÿÿ
+B
+java:S1125"'Remove the unnecessary boolean literal.(âÁƒäÿÿÿÿÿ
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°†»Ô
+C
+java:S1125"(Remove the unnecessary boolean literals.(Ø·“®ûÿÿÿÿ
+B
+java:S1125"'Remove the unnecessary boolean literal.(Ø·“®ûÿÿÿÿ
