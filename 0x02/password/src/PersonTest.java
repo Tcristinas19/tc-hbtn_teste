@@ -16,7 +16,7 @@ public class PersonTest {
     }
 
     @ParameterizedTest(name = "username = {0}")
-    @ValueSource(strings = {"Paul McCartney2" , "Neil@Arms"})
+    @ValueSource(strings = {"PaulMcCartney2" , "NeilArms2"})
         void check_user_valid(String username){
         person.setUsername(username);
 
